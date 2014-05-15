@@ -1,2 +1,18 @@
-Compile.bat
-===========
+javac Artist.java
+javac ArtPricingSystem.java
+javac AuctionPainting.java
+javac BoughtPainting.java
+javac ClassificationComparator.java
+javac DetermineMasterpiecePrice.java
+javac DetermineMasterworkPrice.java
+javac DetermineOtherWorkPrice.java
+javac DetermineMostSimilarWork.java
+javac ExceedingReport.java
+javac Painting.java
+javac PurchasedReport.java
+javac SoldPainting.java
+javac SoldReport.java
+javac UpdateArtistFile.java
+javac UpdateAuctionFile.java
+javac UpdateGalleryFile.java
+javac UserInterface.java
